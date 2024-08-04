@@ -7,7 +7,7 @@
    <img src="./header.png" alt="Logo">
   </a>
 
-  <h3 align="center">Vidur (powered by ProfileCity)</h3>
+  <h3 align="center">Vidhur (powered by ProfileCity)</h3>
 
   <p align="center">
     The open-source next-gen Recruiting OS.
@@ -22,7 +22,6 @@
     ·
     <a href="https://www.vidurjobs.xyz/roadmap">Roadmap</a>
   </p>
-</p>
 
 <p align="center">
    <a href="https://x.com/thenirvanalabs"><img src="https://img.shields.io/twitter/follow/thenirvanalabs" alt="Follow Us on X"></a>
@@ -31,14 +30,14 @@
    <a href="https://www.producthunt.com/products/vidur"><img src="https://img.shields.io/badge/Product%20Hunt%20-%20Vidur%20-%20%23DA552F" alt="Product Hunt"></a>
 </p>
 
-# Recruiting OS for forward thinking companies
-Vidur is an open-source, next-gen Recruiting OS. Its intuitive and modern interface combines advanced candidate profiles, team workspace, plugins,  one-click apply features, and a lot more enabling forward-thinking companies to efficiently manage their recruitment processes from start to finish.
+# Recruiting OS for-forward thinking companies
+Vidhur is an open-source, next-gen Recruiting OS. Its intuitive and modern interface combines advanced candidate profiles, team workspace, plugins,  one-click apply features, and a lot more enabling forward-thinking companies to efficiently manage their recruitment processes from start to finish.
 
 ![Collage Image](asset/collage.png)
 
 ## Development Setup
 ```sh
-# Requirements: A PostgreSQL instance up-and-running.
+# Requirements: A PostgresSQL instance up-and-running.
 # Clone the repo and cd into the folder.
 npm i -g yarn         # install yarn package manager, if you don't have already.
 yarn                  # install all the dependencies
@@ -53,11 +52,11 @@ docker compose up
 ```
 
 ## Contributing
-There are several ways to start contributing to Vidur. See [contribution guide](./CONTRIBUTING.md) to get started.
+There are several ways to start contributing to Vidhur. See [contribution guide](./CONTRIBUTING.md) to get started.
 
 ## Staying ahead
-Star Vidur on GitHub and be instantly notified of new releases.
+Star Vidhur on GitHub and be instantly notified of new releases.
 ![Star Image](asset/star-repo.gif)
 
 ## Security disclosure
-To protect your privacy, please avoid posting security issues on GitHub. Instead, send your questions to team@vidurjobs.xyz and we will provide you with a more detailed answer.
+To protect your privacy, please avoid posting security issues on GitHub. Instead, send your questions to team@vidurjobs.xyz, and we will provide you with a more detailed answer.
