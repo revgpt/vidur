@@ -14,7 +14,6 @@
     <br />
     <a href="https://www.vidurjobs.xyz"><strong>Learn more »</strong></a>
     <br />
-    <br />
     <a href="https://discord.gg/Pt2W9Sx7ap">Discord</a>
     ·
     <a href="https://www.vidurjobs.xyz">Website</a>
